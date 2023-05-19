@@ -25,9 +25,9 @@ const aliAkbarSazish = {
   country: "Afghanistan",
   pronouns: ["He", "Him"],
   status: "open to new opportunities",
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [PHP, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-          Tailwind CSS, Material UI],
+  lookingFor: "Front-End-Developer" || "Full-stack web developer",
+  code: [JavaScript, React, Redux, jQuery, HTML/CSS, SASS, Semantic UI, Bootstrap, 
+          Material UI, PHP, Laravel, Ruby on Rails, MySql, SQL Server],
   challenge: "I am honing my tecnical and professnional skills at Microverse",
   funFacts: ['I have a computer science background and 3+ years of web development']
 }
