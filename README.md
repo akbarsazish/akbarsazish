@@ -15,7 +15,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Abdul+Ali;I'm+from+Afghanistan;I'm+a+Full+Stack+Developer;ツ+Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Ali+Akbar+Sazish; I'm+a+Front+End+Developer;ツ+Be+Welcome!+ツ)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarsazish&label=Profile%20views&color=0e75b6&style=flat" alt="akbarsazish" /> </p>
 
@@ -25,13 +25,12 @@ const aliAkbarSazish = {
   country: "Afghanistan",
   pronouns: ["He", "Him"],
   status: "open to new opportunities",
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [PHP, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
+  lookingFor: "Front-end developer",
+  code: [PHP, JavaScript, React, HTML/CSS, Semantic UI, Bootstrap, 
           Tailwind CSS, Material UI],
   challenge: "I am honing my tecnical and professnional skills at Microverse",
-  funFacts: ['I have a computer science background and 5+ years of 
-              professional and communication skills experience at NSIA and the Afghanistan embassy
-              in a foreign country', 'I am able to making software solutions for small businesses']
+  funFacts: ['I have a computer science background and 3+ years of 
+             expereince in web development, 'I am able to making software solutions for businesses']
 }
 ```
   <br>
@@ -62,16 +61,16 @@ const aliAkbarSazish = {
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,figma,ps,jest,ruby,rails" />
+      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,figma,ps,jest" />
     </a>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,php,java,react,redux,postgres,postman,tailwind,nodejs" />
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,php,react,redux,postgres,postman,tailwind,nodejs" />
     </a>
   </p>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-ali-noori-384b85195/">
+  <a href="https://www.linkedin.com/in/ali-akbar-sazish/">
     <img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -79,4 +78,3 @@ const aliAkbarSazish = {
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 
-<!-- ![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg) -->
