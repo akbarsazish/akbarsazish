@@ -18,18 +18,18 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Ali+Akbar;I'm+from+Afghanistan;I'm+a+Full+Stack+Developer;ツ+Be+Welcome!+ツ)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarsazish&label=Profile%20views&color=0e75b6&style=flat" alt="akbarsazish" /> </p>
+
 ## ✨About Me
 ```javascript
 const aliAkbarSazish = {
   country: "Afghanistan",
   pronouns: ["He", "Him"],
   status: "open to new opportunities",
-  lookingFor: "Front-end developer",
-  code: [PHP, JavaScript, React, HTML/CSS, Semantic UI, Bootstrap, 
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  code: [PHP, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
           Tailwind CSS, Material UI],
   challenge: "I am honing my tecnical and professnional skills at Microverse",
-  funFacts: ['I have a computer science background and 3+ years of 
-             expereince in web development, 'I am able to making software solutions for businesses']
+  funFacts: ['I have a computer science background and 3+ years of web development']
 }
 ```
   <br>
