@@ -29,7 +29,8 @@ const aliAkbarSazish = {
   code: [JavaScript, React, Redux, jQuery, HTML/CSS, SASS, Semantic UI, Bootstrap, 
           Material UI, PHP, Laravel, Ruby on Rails, MySql, SQL Server],
   challenge: "I am honing my tecnical and professnional skills at Microverse",
-  funFacts: ['I have a computer science background and 3+ years of expereince in web development and a web developer with a strength in Frontend-Development, but I also know how to work in the Backend.']
+  funFacts: ['I have a computer science background and 3+ years of expereince in web development,
+  and a web developer with a strength in Frontend-Development, but I also know how to work in the Backend.']
 }
 ```
   <br>
