@@ -52,7 +52,6 @@ const aliAkbarSazish = {
          alt="akbarsazish" />
   </a>
 </div> 
-   
 <br>
 <br>
   
