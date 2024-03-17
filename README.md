@@ -15,7 +15,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Ali+Akbar;I'm+from+Afghanistan;I'm+a+Full+Stack+Developer;ツ+Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋;I'm+a+Frontend+Engineer;I'm+a+Full+Stack+Developer;ツ+Be+Welcome!+ツ)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarsazish&label=Profile%20views&color=0e75b6&style=flat" alt="akbarsazish" /> </p>
 
@@ -24,13 +24,12 @@
 const aliAkbarSazish = {
   country: "Afghanistan",
   pronouns: ["He", "Him"],
-  status: "open to great opportunities",
-  lookingFor: "Front-End-Developer" || "Full-stack web developer",
-  code: [JavaScript, TypeScript, React, Redux, jQuery, HTML/CSS, SASS, Semantic UI, Bootstrap, 
-          Material Design, PHP, Laravel, MySql, SQL Server],
-  challenge: "I am honing my tecnical and professnional skills at Microverse",
-  funFacts: ['I have a computer science background and 3+ years of expereince in web development,
-  and a web developer with a strength in Frontend-Development, but I also know how to work in the Backend.']
+  status: "Open to great opportunities",
+  lookingFor: "Front-End-Development" || "Full-stack development",
+  Stack: [JavaScript, TypeScript, React, Redux, jQuery, Jest, Webpack, HTML/CSS, SASS, Semantic UI, Bootstrap, Tailwind CSS
+          Material Design, PHP, Laravel, Wordpress, MySql, SQL Server],
+  funFacts: ['I have a computer science background and 3+ years of expereince in web development, I possess excellent
+  communication and collaboration skills, and I am passionate about continuous learning and adapting to new technologies.']
 }
 ```
   <br>
