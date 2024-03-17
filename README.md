@@ -26,10 +26,11 @@ const aliAkbarSazish = {
   pronouns: ["He", "Him"],
   status: "Open to great opportunities",
   lookingFor: "Front-End-Development" || "Full-stack development",
-  Stack: [JavaScript, TypeScript, React, Redux, jQuery, Jest, Webpack, HTML/CSS, SASS, Semantic UI, Bootstrap, Tailwind CSS
-          Material Design, PHP, Laravel, Wordpress, MySql, SQL Server],
-  funFacts: ['I have a computer science background and 3+ years of expereince in web development, I possess excellent
-  communication and collaboration skills, and I am passionate about continuous learning and adapting to new technologies.']
+  Stack: [JavaScript, TypeScript, React, Redux, jQuery, Jest, Webpack, HTML/CSS, SASS, Semantic UI,
+ Bootstrap, Tailwind CSS, Material Design, PHP, Laravel, Wordpress, MySql, SQL Server],
+  funFacts: ['I have a computer science background and 3+ years of expereince in web development,
+ I possess excellent communication and collaboration skills, and I am passionate about continuous learning
+ and adapting to new technologies.']
 }
 ```
   <br>
@@ -64,15 +65,18 @@ const aliAkbarSazish = {
 ## ✨ Languages and Tools
 <br>
 <div> 
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,figma,ps,jest" />
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,php,react,redux,postgres,postman,tailwind,nodejs" />
-    </a>
-  </p>
-</div>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,react,jest,redux,jquery" />
+      </a>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui" />
+      </a>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,php,laravel,wordpress" />
+      </a>
+    </p>
+  </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-akbar-sazish/">
