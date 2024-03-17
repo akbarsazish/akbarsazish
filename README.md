@@ -89,16 +89,13 @@ const aliAkbarSazish = {
 
 
 ## ✨Activities and Hobbies
-  <p align="center"> Hobbies </p>
    <p align="center">
     <a href="https://akbarsazish.github.io/" target="_blank">
       <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="music" width="44" height="44" />
-    </a>
-  
-    <a href="https://akbarsazish.github.io/" target="_blank">
+    </a> 
+     <a href="https://akbarsazish.github.io/" target="_blank">
       <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Soccer%20Ball.webp" alt="ball" width="44" height="44" />
     </a>
-  
     <a href="https://akbarsazish.github.io/" target="_blank">
       <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="tech" width="44" height="44" />
     </a>
