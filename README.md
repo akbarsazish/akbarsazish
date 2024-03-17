@@ -87,3 +87,28 @@ const aliAkbarSazish = {
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 
+
+## ✨Activities and Hobbies
+  <p align="center"> Hobbies </p>
+   <p align="center">
+    <a href="https://akbarsazish.github.io/" target="_blank">
+      <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="music" width="44" height="44" />
+    </a>
+  
+    <a href="https://akbarsazish.github.io/" target="_blank">
+      <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Soccer%20Ball.webp" alt="ball" width="44" height="44" />
+    </a>
+  
+    <a href="https://akbarsazish.github.io/" target="_blank">
+      <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="tech" width="44" height="44" />
+    </a>
+    <a href="https://akbarsazish.github.io/" target="_blank">
+      <img src="https://github.com/getintorj/getintorj/blob/master/globe.gif?raw=true" alt="globe" width="44" height="44" />
+    </a>
+    <a href="https://akbarsazish.github.io/" target="_blank">
+      <img src="https://github.com/getintorj/getintorj/blob/master/book.gif?raw=true" alt="book" width="44" height="44" />
+    </a>
+    <a href="https://akbarsazish.github.io/" target="_blank">
+      <img src="https://github.com/getintorj/getintorj/blob/master/music.gif?raw=true" alt="music" width="44" height="44" />
+    </a>
+   </p>
