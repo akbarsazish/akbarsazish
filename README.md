@@ -81,7 +81,10 @@ const aliAkbarSazish = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-akbar-sazish/">
-    <img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img title="linkedin.com/in/ali-akbar-sazish" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://youtube.com/@techfocus20?si=hc7W7lROl9EUVWtN">
+    <img title="linkedin.com/in/techfocus" src="https://img.shields.io/youtube/channel/views/:channelId">
   </a>
 </p>
 <a href="#">
