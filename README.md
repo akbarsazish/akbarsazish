@@ -39,7 +39,7 @@ const aliAkbarSazish = {
   <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://akbarsazish.github.io/">
-       <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="akbarsazish" />
+       <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=akbarsazish&show_icons=true&theme=transparent" alt="akbarsazish" />
     </a>
 </p>
   
