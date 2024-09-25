@@ -47,7 +47,7 @@ const aliAkbarSazish = {
 <br>
 <div align="center">
   <a>
-    <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=akbarsazish&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="akbarsazish" />
+   <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=akbarsazish&show_icons=true&theme=transparent" alt="akbarsazish" />
   </a>
   
   <a>
