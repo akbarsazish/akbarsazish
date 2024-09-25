@@ -39,7 +39,7 @@ const aliAkbarSazish = {
   <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://akbarsazish.github.io/">
-       <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=akbarsazish&show_icons=true&theme=transparent" alt="akbarsazish" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=akbarsazish&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
   
@@ -47,17 +47,13 @@ const aliAkbarSazish = {
 <br>
 <div align="center">
   <a>
-  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=akbarsazish&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="akbarsazish" />
+    <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=akbarsazish&show_icons=true&theme=transparent" alt="akbarsazish" />
   </a>
-  
   <a>
     <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbarsazish&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="akbarsazish" />
   </a>
-  
   <a>
-    <img width="50%" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=akbarsazish&theme=vue-dark&bg_color=0d1117&hide_border=true" 
-         alt="akbarsazish" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarsazish&theme=vue-dark&bg_color=0d1117&hide_border=true"  alt="akbarsazish" />
   </a>
 </div> 
 <br>
